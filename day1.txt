@@ -16,3 +16,8 @@
 	git log  查看提交记录。(对应当前版本。版本回退之后，后面的提交日志就看不到了)
 	git reflog  查看所有的提交记录。
 	git reset --hard 版本号    回退到指定的版本号
+	
+	
+	git check -- <filename>   将文件恢复到仓库的版本。回到最近一次git add或git commit的状态
+	git reset HEAD <filename>  将暂存区中的内容改回工作区中的内容
+	
