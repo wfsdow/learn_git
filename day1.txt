@@ -22,3 +22,10 @@
 	git reset HEAD <filename>  将暂存区中的内容改回工作区中的内容
 	
 	git rm 文件名 删除文件
+	
+	
+	git branch  查看分支
+	git checkout -b 分支名   创建并切换分支 
+		相当于
+		git branch 分支名
+		git checkout 分支名
