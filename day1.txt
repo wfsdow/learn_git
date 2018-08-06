@@ -13,4 +13,6 @@
 	git diff --cached  比较暂存区和仓库的区别
 	
 	
-	测试git diff
+	git log  查看提交记录。(对应当前版本。版本回退之后，后面的提交日志就看不到了)
+	git reflog  查看所有的提交记录。
+	git reset --hard 版本号    回退到指定的版本号
