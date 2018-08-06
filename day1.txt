@@ -21,3 +21,4 @@
 	git check -- <filename>   将文件恢复到仓库的版本。回到最近一次git add或git commit的状态
 	git reset HEAD <filename>  将暂存区中的内容改回工作区中的内容
 	
+	git rm 文件名 删除文件
