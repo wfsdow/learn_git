@@ -32,3 +32,5 @@
 		
 	git branch -d 分支名  删除分支
 	git merge 分支名      将该分支合并到当前分支
+	
+	master添加了内容
