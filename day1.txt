@@ -11,3 +11,6 @@
 	
 	git diff   比较工作区文件和暂存区的区别
 	git diff --cached  比较暂存区和仓库的区别
+	
+	
+	测试git diff
