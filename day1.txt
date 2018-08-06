@@ -1,0 +1,10 @@
+
+
+
+	git init  初始化本地文件夹为仓库
+	
+	git clone  <url>  clone远程仓库
+	
+	git add     将修改添加到暂存区
+	git commit  提交暂存区到仓库
+	
