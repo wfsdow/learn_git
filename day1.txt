@@ -8,3 +8,6 @@
 	git add     将修改添加到暂存区
 	git commit  提交暂存区到仓库
 	
+	
+	git diff   比较工作区文件和暂存区的区别
+	git diff --cached  比较暂存区和仓库的区别
